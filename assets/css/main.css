@@ -2841,3 +2841,14 @@ width:110px;
 	font-size:1em;
 	border:none;
 }
+
+article{
+	text-align:left !important;
+}
+article li{
+	list-style: disc;
+	margin-left: 1em;
+	font-size:.8em;
+	line-height: 2em;
+	margin-right:-.5em;
+}
